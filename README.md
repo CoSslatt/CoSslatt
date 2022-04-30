@@ -2,17 +2,13 @@
 
 ### 💻 I'm a frontend web developer but I make games for passion.
 
-## Languages:
-### Web:
-- 🥦 HTML
-- 🍇 CSS
-- 🍈 Javascript
+## 🏎 My mini roadmap:
+### ✔️ HTML > ✔️ CSS > 👁‍🗨 JS > ❌ Firebase > ❌ React
 
-### Games:
-- 🍒 Unity game engine
-- 🥭 C#
+## 📒 What I'm learning:
+- #### 🔰 UI design
+- #### 🔰 Javascript
+- #### 🔰 Github and Git
 
-### Other (that I only know the basics):
-- 🥬 C++
-- 🍌 Java
-- 🥒 Python (pygame too)
+## ⭐️ My the best projects:
+- *will be soon I need to do domains*
