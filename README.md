@@ -21,7 +21,6 @@
 - <a href="https://github.com/Narcikss/Quiz">Quiz</a>
 - <a href="https://github.com/Narcikss/ShopSimulation">Shop simulation</a>
 - <a href="https://github.com/Narcikss/NewToDo">ToDo</a>
-- <a href="https://github.com/Narcikss/Expense">Expenses</a>
 
 ---
 
