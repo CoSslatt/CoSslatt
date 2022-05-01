@@ -21,4 +21,4 @@
 
 ---
 
-<img align="left" alt="Narcikss's Github Stats" src="https://guthub-readme-stats.vercel.app/api?username=Narcikss&show_icons=true&hide_border=true" />
+<img align="left" alt="Narcikss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Narcikss" />
