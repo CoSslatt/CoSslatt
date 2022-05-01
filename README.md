@@ -19,7 +19,7 @@
 ## ⭐️ My the best projects:
 - <a href="https://github.com/Narcikss/Money-Managment-Project">Money Managment Project</a>
 - <a href="https://github.com/Narcikss/Quiz">Quiz</a>
-- <a href="https://github.com/Narcikss/ShopSimulation">Shop simulation</a>
+- <a href="https://github.com/Narcikss/Shop-simulation">Shop simulation</a>
 - <a href="https://github.com/Narcikss/NewToDo">ToDo</a>
 
 ---
