@@ -10,7 +10,7 @@
 ---
 
 ## 📒 What I'm learning:
-- #### 🔰 UI design
+- #### 🔰 UX/UI design
 - #### 🔰 Javascript
 - #### 🔰 Github and Git
 
