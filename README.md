@@ -5,7 +5,7 @@
 ---
 
 ## 🏎 My mini roadmap:
-### ✔️ HTML > ✔️ CSS > 👁‍🗨 Javascript > ❌ AsyncJS > ❌ React
+### ✔️ HTML > ✔️ CSS > 👁‍🗨 Javascript > ❌ React
 
 ---
 
