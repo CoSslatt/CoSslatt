@@ -19,6 +19,7 @@
 ## ⭐️ My favourite projects:
 <!-- - <a href="https://github.com/Narcikss/Money-Managment-Project">Money Managment Project</a> -->
 - <a href="https://github.com/Narcikss/WebCalculator">Web Calculator</a>
+- <a href="https://github.com/Narcikss/CurrencyExchange">Currency Exchange</a>
 - <a href="https://github.com/Narcikss/Quiz">Quiz</a>
 - <a href="https://github.com/Narcikss/Shop-simulation">Shop simulation</a>
 - <a href="https://github.com/Narcikss/RegisterPage">Register Page</a>
