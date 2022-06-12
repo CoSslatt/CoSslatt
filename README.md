@@ -1,4 +1,4 @@
-## 🤵 Hello! I'm Narcikss, programmer since 2020
+## 🤵 Hello! I'm Co'Sslatt, programmer since 2020
 
 ### 💻 I'm a frontend web developer but I make games for passion.
 
