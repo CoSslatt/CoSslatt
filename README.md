@@ -27,4 +27,4 @@
 
 ---
 
-<img align="left" alt="Narcikss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Narcikss&theme=radical" />
+<img align="left" alt="CoSslatt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoSslatt&theme=radical" />
