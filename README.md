@@ -17,7 +17,7 @@
 ---
 
 ## ⭐️ My favourite projects:
-- <a href="https://github.com/CoSslatt/FirstPortfolio">Web Calculator</a>
+- <a href="https://github.com/CoSslatt/FirstPortfolio">First Portfiolio</a>
 - <a href="https://github.com/CoSslatt/WebCalculator">Web Calculator</a>
 - <a href="https://github.com/CoSslatt/Quiz">Quiz</a>
 - <a href="https://github.com/CoSslatt/Shop-simulation">Shop simulation</a>
